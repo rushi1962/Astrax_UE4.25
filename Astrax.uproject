@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{46B9F984-47ED-11FC-B3AB-A8858A06632B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Astrax",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG"
+			]
+		}
+	]
+}
